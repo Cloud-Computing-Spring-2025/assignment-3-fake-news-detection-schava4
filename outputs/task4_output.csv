@@ -1,0 +1,75 @@
+id,title,label_index,prediction
+F002,Mind Control Confirmed by Sources,0.0,0.0
+F006,Hoax Confirmed by Sources,0.0,0.0
+F008,Hoax Confirmed by Sources,0.0,0.0
+F013,Secret Cure Confirmed by Sources,0.0,0.0
+F019,Immortal Jellyfish Confirmed by Sources,0.0,0.0
+F023,Mind Control Confirmed by Sources,0.0,0.0
+F029,Flat Earth Confirmed by Sources,0.0,0.0
+F035,Hoax Confirmed by Sources,0.0,0.0
+F045,Immortal Jellyfish Confirmed by Sources,0.0,0.0
+F046,Mind Control Confirmed by Sources,0.0,0.0
+F047,Miracle Drug Confirmed by Sources,0.0,0.0
+F049,Hoax Confirmed by Sources,0.0,0.0
+F051,Secret Cure Confirmed by Sources,0.0,0.0
+F055,Hoax Confirmed by Sources,0.0,0.0
+F062,Miracle Drug Confirmed by Sources,0.0,0.0
+F069,Flat Earth Confirmed by Sources,0.0,0.0
+F077,Secret Cure Confirmed by Sources,0.0,0.0
+F100,Flat Earth Confirmed by Sources,0.0,0.0
+F112,Government Cover-Up Confirmed by Sources,0.0,0.0
+F116,Aliens Confirmed by Sources,0.0,0.0
+F117,Hoax Confirmed by Sources,0.0,0.0
+F118,Immortal Jellyfish Confirmed by Sources,0.0,0.0
+F129,Flat Earth Confirmed by Sources,0.0,0.0
+F131,Hoax Confirmed by Sources,0.0,0.0
+F152,Government Cover-Up Confirmed by Sources,0.0,0.0
+F160,Mind Control Confirmed by Sources,0.0,0.0
+F164,Immortal Jellyfish Confirmed by Sources,0.0,0.0
+F168,Miracle Drug Confirmed by Sources,0.0,0.0
+F171,Government Cover-Up Confirmed by Sources,0.0,0.0
+F183,Aliens Confirmed by Sources,0.0,0.0
+F189,Immortal Jellyfish Confirmed by Sources,0.0,0.0
+F204,Miracle Drug Confirmed by Sources,0.0,0.0
+F211,Celebrity Scandal Confirmed by Sources,0.0,0.0
+F219,Flat Earth Confirmed by Sources,0.0,0.0
+F224,Secret Cure Confirmed by Sources,0.0,0.0
+F240,Aliens Confirmed by Sources,0.0,0.0
+R004,New Report on Education,1.0,1.0
+R008,New Report on Economic Growth,1.0,1.0
+R011,New Report on Public Health,1.0,1.0
+R013,New Report on Technology Breakthrough,1.0,1.0
+R016,New Report on Technology Breakthrough,1.0,1.0
+R018,New Report on Research,1.0,1.0
+R038,New Report on Public Health,1.0,1.0
+R041,New Report on Election,1.0,1.0
+R042,New Report on Public Health,1.0,1.0
+R046,New Report on Education,1.0,1.0
+R048,New Report on Budget Report,1.0,1.0
+R060,New Report on Election,1.0,1.0
+R062,New Report on Budget Report,1.0,1.0
+R073,New Report on Economic Growth,1.0,1.0
+R085,New Report on Economic Growth,1.0,1.0
+R087,New Report on Budget Report,1.0,1.0
+R091,New Report on Climate Change,1.0,1.0
+R098,New Report on Election,1.0,1.0
+R118,New Report on Research,1.0,1.0
+R126,New Report on Research,1.0,1.0
+R132,New Report on Education,1.0,1.0
+R146,New Report on Technology Breakthrough,1.0,1.0
+R159,New Report on Economic Growth,1.0,1.0
+R166,New Report on Election,1.0,1.0
+R176,New Report on Economic Growth,1.0,1.0
+R177,New Report on Policy,1.0,1.0
+R185,New Report on Technology Breakthrough,1.0,1.0
+R193,New Report on Technology Breakthrough,1.0,1.0
+R197,New Report on Education,1.0,1.0
+R200,New Report on Public Health,1.0,1.0
+R213,New Report on Budget Report,1.0,1.0
+R221,New Report on Policy,1.0,1.0
+R223,New Report on Climate Change,1.0,1.0
+R226,New Report on Public Health,1.0,1.0
+R229,New Report on Research,1.0,1.0
+R234,New Report on Research,1.0,1.0
+R239,New Report on Education,1.0,1.0
+R246,New Report on Economic Growth,1.0,1.0
